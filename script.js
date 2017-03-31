@@ -36,7 +36,25 @@ $(document).ready(function(){
 		"Intoxicated by Memories and feelings",
 		"Getting lost is never a waste of time.",
 		"A day without light is like night",
-		"Stay, Hustle, Focus"];
+		"Stay, Hustle, Focus",
+		"Happiness is being Confidently weird",
+		"If your not first your last",
+		"I dont love your 4ever, I love you 5ever because 4 isn't enough",
+		"Fuck Bitches , Get Money"
+		"Disregard Women , Aquire Currency",
+		"Life is like a fish",
+		"Eat,Shit,Die",
+		"On a scale 1 to 10 your a 9 and I'm the 1 you need",
+		"Are you a camera, because everytime I look at you I smile",
+		"Friends make the world beautiful",
+		"I hope one day you choke on the shit you talk",
+		"If you don't want me at my worst, you don't deserve me at my best",
+		"You know whats beautiful? read the first word",
+		"If you were a chicken, you'd be impeccable.",
+		"You have to be odd to be number one",
+		"Never look  back unless youre that ass",
+		"Are we ever going to be better than this?"
+		];
 
 	/**
  		* Returns a random integer between min (inclusive) and max (inclusive)
