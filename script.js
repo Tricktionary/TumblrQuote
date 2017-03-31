@@ -84,7 +84,8 @@ $(document).ready(function(){
 		"You must be the change you wish to see in the world",
 		"People who give 110% don't understand how percentages work",
 		"You're just a memory",
-		"Life isn't perfect but your outfit can be"
+		"Life isn't perfect but your outfit can be",
+		"Suns Out Guns Out"
 		];
 
 	/**
