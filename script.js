@@ -40,7 +40,7 @@ $(document).ready(function(){
 		"Happiness is being Confidently weird",
 		"If your not first your last",
 		"I dont love your 4ever, I love you 5ever because 4 isn't enough",
-		"Fuck Bitches , Get Money"
+		"Fuck Bitches , Get Money",
 		"Disregard Women , Aquire Currency",
 		"Life is like a fish",
 		"Eat,Shit,Die",
