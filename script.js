@@ -112,7 +112,7 @@ $(document).ready(function(){
 		"My favorite things in life don't cost any money. It's really clear that the most precious resource we all have is time.",
 		"Truth is more interesting than the fiction we are used to",
 		"The most dangerous thing you can do in life is play it safe",
-		"When something is important enough, you do it even if the odds are not in your favor"
+		"When something is important enough, you do it even if the odds are not in your favor",
 		"Life is not fair, get used to it."
 		];
 
