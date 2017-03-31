@@ -44,7 +44,7 @@ $(document).ready(function(){
 		"Disregard Women , Aquire Currency",
 		"Life is like a fish",
 		"Eat,Shit,Die",
-		"On a scale 1 to 10 your a 9 and I'm the 1 you need",
+		"On a scale 1 to 10 you're a 9 and I'm the 1 you need",
 		"Are you a camera, because everytime I look at you I smile",
 		"Friends make the world beautiful",
 		"I hope one day you choke on the shit you talk",
@@ -68,8 +68,6 @@ $(document).ready(function(){
 	function getRandomInt(min, max) {
     	return Math.floor(Math.random() * (max - min + 1)) + min;
 	}
-
- 
 
 	$('#submit').click(makeQuote);
 
