@@ -16,6 +16,11 @@ h1{
     font-family: 'Satisfy', cursive;
     font-size: 25px;
 }
+
+#flower{
+    padding-top: 50px;
+    float:bottom;
+}
 button{
   
     padding: 10px 30px;
