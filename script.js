@@ -58,7 +58,8 @@ $(document).ready(function(){
 		"What we fear doing most is usually what we most need to do",
 		"Everyone cares when it’s too late",
 		"Trump can suck my dick",
-		"The mitochondria is the powerhouse of the cell"
+		"The mitochondria is the powerhouse of the cell",
+		"our generation's humour is based off of irony. as we age we will become increasingly ironic to the point where complimenting someone is an insult. this is the future. this is us"
 		];
 
 	/**
