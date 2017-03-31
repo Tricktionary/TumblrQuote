@@ -52,7 +52,7 @@ $(document).ready(function(){
 		"You know whats beautiful? read the first word",
 		"If you were a chicken, you'd be impeccable.",
 		"You have to be odd to be number one",
-		"Never look  back unless youre that ass",
+		"Never look  back unless you're that ass",
 		"Are we ever going to be better than this?",
 		"Is that a rocket in your pocket?",
 		"What we fear doing most is usually what we most need to do",
