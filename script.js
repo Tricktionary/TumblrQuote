@@ -75,7 +75,6 @@ $(document).ready(function(){
 		"Roses are red ,violets are blue ,I suck at poetry, but I still love you",
 		"What the fuck is this BULLSHIT",
 		"People don't think the universe be like it is, but it do",
-		"There are only 2 Genders",
 		"Eating Chicken can make your kid's dick small",
 		"FUPA loss 2k17",
 		"Fuck off or I'll punch you in the throat -Mahalma Gandhi",
@@ -113,7 +112,16 @@ $(document).ready(function(){
 		"Truth is more interesting than the fiction we are used to",
 		"The most dangerous thing you can do in life is play it safe",
 		"When something is important enough, you do it even if the odds are not in your favor",
-		"Life is not fair, get used to it."
+		"Life is not fair, get used to it.",
+		"But out princess is in another castle",
+		"We all make choices in life, but in the end our choices make us.",
+	        "The right man in the wrong place can make all the difference in the world.",
+	        "Wanting something does not give you the right to have it.",
+		"It's time to kick ass and chew bubblegum... and I'm all outta gum.",
+		"The ending isn’t any more important than any of the moments leading to it.",
+		"What is a man but the sum of his memories? We are the stories we live! The tales we tell ourselves!",
+		"War is where the young and stupid are tricked by the old and bitter into killing each other."
+		
 		];
 
 	/**
